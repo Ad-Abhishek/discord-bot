@@ -14,3 +14,13 @@ A customizable Discord bot built with Node.js and the Discord.js library, design
 - Node.js: Backend runtime for scalable JavaScript applications.
 - Discord.js: API wrapper that simplifies interactions with the Discord API.
 - ES Modules: Modern JavaScript syntax for cleaner and more modular code.
+
+## Environment Variables
+
+Create a `.env` file in the project directory and add the following variables:
+
+```bash
+DISCORD_TOKEN=your_discord_token
+clientId=your_client_id
+guildId=your_guildId
+```
